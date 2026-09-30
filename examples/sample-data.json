@@ -1,0 +1,9 @@
+{
+  "lead_id": "fictional-208",
+  "assignment": "caller-b",
+  "local_time_status": "eligible",
+  "latest_disposition": "callback",
+  "callback_window": "next_business_day",
+  "pipeline_stage": "connected"
+}
+
